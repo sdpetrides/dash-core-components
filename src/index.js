@@ -22,6 +22,7 @@ import Tabs from './components/Tabs.react';
 import Tab from './components/Tab.react';
 import Store from './components/Store.react';
 import LogoutButton from './components/LogoutButton.react';
+import Pathname from './components/Pathname.react';
 
 import './components/css/react-dates@12.3.0.css';
 
@@ -48,5 +49,6 @@ export {
     DatePickerRange,
     Upload,
     Store,
-    LogoutButton
+    LogoutButton,
+    Pathname,
 };
